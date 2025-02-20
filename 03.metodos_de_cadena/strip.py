@@ -1,3 +1,4 @@
-fruta= "  melon, mango  "
+fruta= "  melon,mango  "
 
 print(fruta.strip())
+print("hola")
